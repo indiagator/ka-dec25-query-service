@@ -1,4 +1,4 @@
-package com.egov.profileservice;
+package com.egov.queryservice;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

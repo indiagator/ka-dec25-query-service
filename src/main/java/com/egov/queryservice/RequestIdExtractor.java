@@ -1,4 +1,4 @@
-package com.egov.profileservice;
+package com.egov.queryservice;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.stereotype.Service;

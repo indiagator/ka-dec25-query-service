@@ -1,4 +1,4 @@
-package com.egov.profileservice;
+package com.egov.queryservice;
 
 import io.github.resilience4j.circuitbreaker.CircuitBreakerConfig;
 import io.github.resilience4j.retry.RetryConfig;

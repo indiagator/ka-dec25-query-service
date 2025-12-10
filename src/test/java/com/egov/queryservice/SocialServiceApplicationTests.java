@@ -1,4 +1,4 @@
-package com.egov.profileservice;
+package com.egov.queryservice;
 
 import org.springframework.boot.test.context.SpringBootTest;
 
